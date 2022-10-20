@@ -1,0 +1,26 @@
+/* Tag Selector */
+h1{
+    color: red;
+}
+img:hover{
+    background-color: red;
+}
+/* img:active{
+    background-color: gold;
+} */
+
+/* Class Selector */
+.bacon{
+    background-color: green;
+}
+.circular{
+    border-radius: 100%;
+}
+.circular:active{
+    background-color: gold;
+}
+
+/* ID Selector (Just a single one) */
+#heading{
+    color: blue;
+}
