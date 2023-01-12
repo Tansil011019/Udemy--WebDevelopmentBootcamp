@@ -1,0 +1,1 @@
+CDN -> Content Delivery Network -> shortest route to access the file in different area
