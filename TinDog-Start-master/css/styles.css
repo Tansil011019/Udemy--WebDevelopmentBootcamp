@@ -1,11 +1,13 @@
 #title {
     background-color: #ff4c68;
+    color: white;
 }
 
 h1{
     font-family: "Montserrat";
+    font-weight: 800;
 }
 
-.container-fluid{
-    
+.navbar-brand{
+    font-family: "Ubuntu";
 }
